@@ -1,0 +1,305 @@
+HIV-1 RT	K	101 	E	AAA	GAA	noncompetitive RT inhibitor	MSK-076
+HIV-1 RT	Y	181	C	TAT	TGT	noncompetitive RT inhibitor	MSK-076
+HIV-1 RT	G	190	R	GGA	AGA	noncompetitive RT inhibitor	MSK-076
+HIV-1 RT	M	41	L	ATG	TTG/CTG	Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	E	44	A	GAA	GCA	Nucleoside RT Inhibitor (NRTI)	3TC (lamivudine)
+HIV-1 RT	E	44	D	GAA	GAC	Nucleoside RT Inhibitor (NRTI)	3TC (lamivudine)
+HIV-1 RT	P	52	R	CCT	CGT	Nucleoside RT Inhibitor (NRTI)	d4T (stavudine)
+HIV-1 RT	N	54	D	AAT	GAT	Nucleoside RT Inhibitor (NRTI)	d4T (stavudine)
+HIV-1 RT	K	65	R	AAA	AGA	Nucleoside RT Inhibitor (NRTI)	1592U89 (abacavir)
+HIV-1 RT	K	65	R	AAA	AGA	Nucleoside RT Inhibitor (NRTI)	3TC (lamivudine)
+HIV-1 RT	K	65	R	AAA	AGA	Nucleoside RT Inhibitor (NRTI)	BCH-10652 (+/- dOTC)
+HIV-1 RT	K	65	R	AAA	AGA	Nucleoside RT Inhibitor (NRTI)	d-d4FC (D4FC)
+HIV-1 RT	K	65	R	AAA	AGA	Nucleoside RT Inhibitor (NRTI)	d4T (stavudine)
+HIV-1 RT	K	65	R	AAA	AGA	Nucleoside RT Inhibitor (NRTI)	d4T (stavudine)
+HIV-1 RT	K	65	R	AAA	AGA	Nucleoside RT Inhibitor (NRTI)	ddC (zalcitabine)
+HIV-1 RT	K	65	R	AAA	AGA	Nucleoside RT Inhibitor (NRTI)	ddI (didanosine)
+HIV-1 RT	K	65	R	AAA	AGA	Nucleoside RT Inhibitor (NRTI)	DXG
+HIV-1 RT	K	65	R	AAA	AGA	Nucleoside RT Inhibitor (NRTI)	PMEA (adefovir)
+HIV-1 RT	K	65	R	AAA	AGA	Nucleoside RT Inhibitor (NRTI)	PMPA (tenofovir)
+HIV-1 RT	D	67	A	GAC	GCC	Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	D	67	del	GAC	deletion	Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine) + ddI (didanosine)
+HIV-1 RT	D	67	del	GAC	deletion	Nucleoside RT Inhibitor (NRTI)	ddC (zalcitabine)
+HIV-1 RT	D	67	del	GAC	deletion	Nucleoside RT Inhibitor (NRTI)	ddI (didanosine)
+HIV-1 RT	D	67	del	GAC	del	Nucleoside RT Inhibitor (NRTI)	MDR (multi-drug resistant)
+HIV-1 RT	D	67	G	GAC	GAG	Nucleoside RT Inhibitor (NRTI)	(+)dOTFC
+HIV-1 RT	D	67	G	GAC	GAG	Nucleoside RT Inhibitor (NRTI)	(+)dOTFC
+HIV-1 RT	D	67	N	GAC	AAC	Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	ins	69	TRVMG	ACT+	ACG AGA GTG ATG GGG	Nucleoside RT Inhibitor (NRTI)	1592U89 (abacavir)
+HIV-1 RT	ins	69	TRVMG	ACT+	ACG AGA GTG ATG GGG	Nucleoside RT Inhibitor (NRTI)	3TC (lamivudine)
+HIV-1 RT	ins	69	TRVMG	ACT+	ACG AGA GTG ATG GGG	Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	ins	69	TRVMG	ACT+	ACG AGA GTG ATG GGG	Nucleoside RT Inhibitor (NRTI)	d4T (stavudine)
+HIV-1 RT	ins	69	TRVMG	ACT+	ACG AGA GTG ATG GGG	Nucleoside RT Inhibitor (NRTI)	ddC (zalcitabine)
+HIV-1 RT	ins	69	TRVMG	ACT+	ACG AGA GTG ATG GGG	Nucleoside RT Inhibitor (NRTI)	ddI (didanosine)
+HIV-1 RT	INS	69	TSG	ACT	ins	Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine) + ddI (didanosine) or ddC (zalcitabine)
+HIV-1 RT	T	69	D	ACT	GAT	Nucleoside RT Inhibitor (NRTI)	ddC (zalcitabine)
+HIV-1 RT	T	69	G	ACT	GGT	Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine) + ddI (didanosine)
+HIV-1 RT	T	69	G	ACT	GGT	Nucleoside RT Inhibitor (NRTI)	ddC (zalcitabine)
+HIV-1 RT	T	69	G	ACT	GGT	Nucleoside RT Inhibitor (NRTI)	ddI (didanosine)
+HIV-1 RT	T	69	S + SG	ACT	AGT + AGT GGT	Nucleoside RT Inhibitor (NRTI)	ddI (didanosine) + hydroxyurea
+HIV-1 RT	T	69	S + SS	ACT	AGT + AGT AGT	Nucleoside RT Inhibitor (NRTI)	ddI (didanosine) + hydroxyurea
+HIV-1 RT	K	70	E	AAA	GAA	Nucleoside RT Inhibitor (NRTI)	3TC (lamivudine)
+HIV-1 RT	K	70	E	AAA	GAA	Nucleoside RT Inhibitor (NRTI)	PMEA (adefovir)
+HIV-1 RT	K	70	R	AAA	AGA	Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	L	74	I	TTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	HBY 097
+HIV-1 RT	L	74	V	TTA	GTA	Nucleoside RT Inhibitor (NRTI)	1592U89 (abacavir)
+HIV-1 RT	L	74	V	TTA	GTA	Nucleoside RT Inhibitor (NRTI)	ddC (zalcitabine)
+HIV-1 RT	L	74	V	TTA	GTA	Nucleoside RT Inhibitor (NRTI)	ddI (didanosine)
+HIV-1 RT	L	74	V	TTA	GTA	Nucleoside RT Inhibitor (NRTI)	DXG
+HIV-1 RT	L	74	V	TTA	GTA	HIV-1 Specific RT Inhibitor (NNRTI)	HBY 097
+HIV-1 RT	V	75	I	GTA	ATA	Nucleoside RT Inhibitor (NRTI)	(-)dOTC
+HIV-1 RT	V	75	I	GTA	TTA	HIV-1 Specific RT Inhibitor (NNRTI)	HBY 097
+HIV-1 RT	V	75	L	GTA	TTA	HIV-1 Specific RT Inhibitor (NNRTI)	HBY 097
+HIV-1 RT	V	75	M	GTA	ATG	Nucleoside RT Inhibitor (NRTI)	d4T (stavudine)
+HIV-1 RT	V	75	T	GTA	ACA	Nucleoside RT Inhibitor (NRTI)	d4C
+HIV-1 RT	V	75	T	GTA	ACA	Nucleoside RT Inhibitor (NRTI)	d4T (stavudine)
+HIV-1 RT	V	75	T	GTA	ACA	Nucleoside RT Inhibitor (NRTI)	ddC (zalcitabine)
+HIV-1 RT	V	75	T	GTA	ACA	Nucleoside RT Inhibitor (NRTI)	ddI (didanosine)
+HIV-1 RT	V	75	T	GTA	ACA	Nucleoside RT Inhibitor (NRTI)	(-)-FTC (emtricitabine)
+HIV-1 RT	W	88	G	TGG	GGG	Pyrophosphate Analogue RT Inhibitor	PFA (foscarnet)
+HIV-1 RT	W	88	S	TGG	TCG	Pyrophosphate Analogue RT Inhibitor	PFA (foscarnet)
+HIV-1 RT	E	89	G	GAA	GGA 	Pyrophosphate Analogue RT Inhibitor	PFA (foscarnet)
+HIV-1 RT	E	89	K	GAA	GGA	Pyrophosphate Analogue RT Inhibitor	PFA (foscarnet)
+HIV-1 RT	L	92	I	TTA	ATA	Pyrophosphate Analogue RT Inhibitor	PFA (foscarnet)
+HIV-1 RT	A	98	G	GCA	GGA	HIV-1 Specific RT Inhibitor (NNRTI)	L-697,661
+HIV-1 RT	L	100	I	TTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	BHAP U-88204E
+HIV-1 RT	L	100	I	TTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	L	100	I	TTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	L	100	I	TTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	L-697,661
+HIV-1 RT	L	100	I	TTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	TIBO R82150
+HIV-1 RT	L	100	I	TTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	TIBO R82913
+HIV-1 RT	L	100	I	TTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	UC-68
+HIV-1 RT	L	100	I	TTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	UC-70
+HIV-1 RT	L	100	I	TTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	UC-781
+HIV-1 RT	L	100	I	TTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	UC-84
+HIV-1 RT	K	101	E	AAA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	ADAMII
+HIV-1 RT	K	101	E	AAA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	K	101	E	AAA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	K	101	E	AAA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	L-697,661
+HIV-1 RT	K	101	E	AAA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	UC-10
+HIV-1 RT	K	101	E	AAA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	UC-38
+HIV-1 RT	K	101	E	AAA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	UC-57
+HIV-1 RT	K	101	E	AAA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	UC-781
+HIV-1 RT	K	101	E	AAA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	UCO40
+HIV-1 RT	K	101	I	AAA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	UC-16
+HIV-1 RT	K	101	P	AAA	CCA	HIV-1 Specific RT Inhibitor (NNRTI)	TMC125
+HIV-1 RT	K	101	Q	AAA	CAA	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	K	101	Q	AAA	CAA	HIV-1 Specific RT Inhibitor (NNRTI)	LY-300046 HCl (trovirdine)
+HIV-1 RT	K	103	E	AAA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	BHAP U-87201E (atevirdine)
+HIV-1 RT	K	103	N	AAA	AAC	HIV-1 Specific RT Inhibitor (NNRTI)	ADAMII
+HIV-1 RT	K	103	N	AAA	AAC	HIV-1 Specific RT Inhibitor (NNRTI)	BHAP U-87201E (atevirdine)
+HIV-1 RT	K	103	N	AAA	AAC	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	K	103	N	AAA	AAC	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	K	103	N	AAA	AAC	HIV-1 Specific RT Inhibitor (NNRTI)	L-697,593
+HIV-1 RT	K	103	N	AAA	AAC	HIV-1 Specific RT Inhibitor (NNRTI)	L-697,661
+HIV-1 RT	K	103	N	AAA	AAC	HIV-1 Specific RT Inhibitor (NNRTI)	I-EBU (emivirine)
+HIV-1 RT	K	103	N	AAA	AAC	HIV-1 Specific RT Inhibitor (NNRTI)	TIBO R82913
+HIV-1 RT	K	103	N	AAA	AAC	HIV-1 Specific RT Inhibitor (NNRTI)	UC-10
+HIV-1 RT	K	103	N	AAA	AAC	HIV-1 Specific RT Inhibitor (NNRTI)	UC-81
+HIV-1 RT	K	103	Q	AAA	CAA	HIV-1 Specific RT Inhibitor (NNRTI)	L-697,661
+HIV-1 RT	K	103	R	AAA	AGA	HIV-1 Specific RT Inhibitor (NNRTI)	LY-300046 HCl (trovirdine)
+HIV-1 RT	K	103	R	AAA	AGA	HIV-1 Specific RT Inhibitor (NNRTI)	I-EBU (emivirine)
+HIV-1 RT	K	103	R	AAA	AGA	HIV-1 Specific RT Inhibitor (NNRTI)	O-(2-Phenoxy ethyl)benzoyl (phenyl) thiocarbamate 17c
+HIV-1 RT	K	103	T	AAA	ACA	HIV-1 Specific RT Inhibitor (NNRTI)	S-1153
+HIV-1 RT	K	103	T	AAA	ACA	HIV-1 Specific RT Inhibitor (NNRTI)	UC-42
+HIV-1 RT	V	106	A	GTA	GCA	HIV-1 Specific RT Inhibitor (NNRTI)	ADAMII
+HIV-1 RT	V	106	A	GTA	GCA	HIV-1 Specific RT Inhibitor (NNRTI)	BHAP U-88204E
+HIV-1 RT	V	106	A	GTA	GCA	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	V	106	A	GTA	GCA	HIV-1 Specific RT Inhibitor (NNRTI)	E-EBU-dM
+HIV-1 RT	V	106	A	GTA	GCA	HIV-1 Specific RT Inhibitor (NNRTI)	S-1153
+HIV-1 RT	V	106	A	GTA	GCA	HIV-1 Specific RT Inhibitor (NNRTI)	S-2720 (quinoxaline)
+HIV-1 RT	V	106	A	GTA	GCA	HIV-1 Specific RT Inhibitor (NNRTI)	TIBO R82913
+HIV-1 RT	V	106	A	GTA	GCA	HIV-1 Specific RT Inhibitor (NNRTI)	UC-69
+HIV-1 RT	V	106	A	GTA	GCA	HIV-1 Specific RT Inhibitor (NNRTI)	UC-82
+HIV-1 RT	V	106	I	GTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	HBY 097
+HIV-1 RT	V	106	M	GTG	ATG	HIV-1 Specific RT Inhibitor (NNRTI)	BHAP U-90152 (delavirdine)
+HIV-1 RT	V	106	M	GTG	ATG	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	V	106	M	GTG	ATG	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	V	108	I	GTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	ADAMII
+HIV-1 RT	V	108	I	GTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	V	108	I	GTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	V	108	I	GTA	GCA	HIV-1 Specific RT Inhibitor (NNRTI)	L-697,661
+HIV-1 RT	V	108	I	GTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	LY-300046 HCl (trovirdine)
+HIV-1 RT	V	108	I	GTA	GCA	HIV-1 Specific RT Inhibitor (NNRTI)	I-EBU (emivirine)
+HIV-1 RT	V	108	I	GTT	GAT	HIV-1 Specific RT Inhibitor (NNRTI)	TIBO R82913
+HIV-1 RT	V	108	I	GTA 	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	UC-781
+HIV-1 RT	Y	115	F	TAT	TTT	Nucleoside RT Inhibitor (NRTI)	1592U89 (abacavir)
+HIV-1 RT	V	118	I	GTT	ATT	Nucleoside RT Inhibitor (NRTI)	3TC (lamivudine)
+HIV-1 RT	P	119	S	CCC	TCC	Nucleoside RT Inhibitor (NRTI)	F-ddA (lodenosine)
+HIV-1 RT	I	135	L	ATA	AAA	HIV-1 Specific RT Inhibitor (NNRTI)	BHAP U-90152 (delavirdine)
+HIV-1 RT	I	135	L	ATA	AAA	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	I	135	L	ATA	AAA	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	I	135	M	ATA	ATG	HIV-1 Specific RT Inhibitor (NNRTI)	BHAP U-90152 (delavirdine)
+HIV-1 RT	I	135	M	ATA	ATG	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	I	135	M	ATA	ATG	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	I	135	T	ATA	ACA	HIV-1 Specific RT Inhibitor (NNRTI)	BHAP U-90152 (delavirdine)
+HIV-1 RT	I	135	T	ATA	ACA	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	I	135	T	ATA	ACA	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	E	138	A	GAG	GCG	HIV-1 Specific RT Inhibitor (NNRTI)	TSAO
+HIV-1 RT	E	138	K	GAG	AAG	HIV-1 Specific RT Inhibitor (NNRTI)	I-EBU (emivirine)
+HIV-1 RT	E	138	K	GAG	AAG	HIV-1 Specific RT Inhibitor (NNRTI)	TIBO R82913
+HIV-1 RT	E	138	K	GAG	AAG	HIV-1 Specific RT Inhibitor (NNRTI)	TSAO
+HIV-1 RT	E	138	K	GAG	AAG	HIV-1 Specific RT Inhibitor (NNRTI)	UC-82
+HIV-1 RT	E	138	K	GAG	AAG	HIV-1 Specific RT Inhibitor (NNRTI)	UC-84
+HIV-1 RT	T	139	I	ACA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	ADAMII
+HIV-1 RT	T	139	I	ACA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	Calanolide A
+HIV-1 RT	G	141	E	GGG	GAG	HIV-1 Specific RT Inhibitor (NNRTI)	UC-16
+HIV-1 RT	P	143	S			Nucleoside RT Inhibitor (NRTI)	ddI (didanosine)
+HIV-1 RT	Q	151	M	CAG	ATG	Nucleoside RT Inhibitor (NRTI)	d-d4FC (D4FC)
+HIV-1 RT	S	156	A	TCA	GCA	Pyrophosphate Analogue RT Inhibitor	PFA (foscarnet)
+HIV-1 RT	P	157	S	CCA	TCA	Nucleoside RT Inhibitor (NRTI)	3TC (lamivudine)
+HIV-1 RT	Q	161	L	CAA	CTA	Pyrophosphate Analogue RT Inhibitor	PFA (foscarnet)
+HIV-1 RT	V	179	D	GTT	GAT	HIV-1 Specific RT Inhibitor (NNRTI)	8-chloro-TIBO (tivirapine)
+HIV-1 RT	V	179	D	GTT	GAT	HIV-1 Specific RT Inhibitor (NNRTI)	ADAMII
+HIV-1 RT	V	179	D	GTT	GAT	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	V	179	D	GTT	GAT	HIV-1 Specific RT Inhibitor (NNRTI)	L-697,661
+HIV-1 RT	V	179	D	GTT	GAT	HIV-1 Specific RT Inhibitor (NNRTI)	LY-300046 HCl (trovirdine)
+HIV-1 RT	V	179	D	GTT	GAT	HIV-1 Specific RT Inhibitor (NNRTI)	QM96521
+HIV-1 RT	V	179	D	GTT	GAT	HIV-1 Specific RT Inhibitor (NNRTI)	TIBO R82913
+HIV-1 RT	V	179	D	GTT	GAT	HIV-1 Specific RT Inhibitor (NNRTI)	UC-10
+HIV-1 RT	V	179	E	GTT	GAG	HIV-1 Specific RT Inhibitor (NNRTI)	L-697,661
+HIV-1 RT	V	179	F	GTT	TTT	HIV-1 Specific RT Inhibitor (NNRTI)	TMC125
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	1737
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	ADAMII
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	alpha-APA (loviride)
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	BHAP U-87201E (atevirdine)
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	BHAP U-88204E
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	BM+51.0836 
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	E-BPTU
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	E-EBU
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	E-EPSeU
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	E-EPU
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	L-697,593
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	L-697,661
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	LY-300046 HCl (trovirdine)
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	I-EBU (emivirine)
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	O-(2-Phenoxy ethyl)benzoyl (phenyl) thiocarbamate 17c
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	TIBO R82913
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	UC-10
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	UC-32
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	UC-38
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	UC-57
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	UC-581
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	UC-68
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	UC-69
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	UC-781
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	UC-80 (NSC 639475)
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	UC-81
+HIV-1 RT	Y	181	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	UC-84
+HIV-1 RT	Y	181	I	TGT	ATT	HIV-1 Specific RT Inhibitor (NNRTI)	BHAP U-88204E
+HIV-1 RT	Y	181	I	TGT	ATT	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	Y	181	I	TAT	ATT	HIV-1 Specific RT Inhibitor (NNRTI)	I-EBU (emivirine)
+HIV-1 RT	Y	181	I	TAT	ATT	HIV-1 Specific RT Inhibitor (NNRTI)	TMC125
+HIV-1 RT	Y	181	V	TAT	GTT	HIV-1 Specific RT Inhibitor (NNRTI)	TMC125
+HIV-1 RT	M	184	I	ATG	ATA	Nucleoside RT Inhibitor (NRTI)	3TC (lamivudine)
+HIV-1 RT	M	184	I	ATG	ATA	Nucleoside RT Inhibitor (NRTI)	(+)dOTC
+HIV-1 RT	M	184	I	ATG	ATA	Nucleoside RT Inhibitor (NRTI)	(+)dOTFC
+HIV-1 RT	M	184	I	ATG	ATA	Nucleoside RT Inhibitor (NRTI)	(-)dOTFC
+HIV-1 RT	M	184	I	ATG	ATA	Nucleoside RT Inhibitor (NRTI)	(-)-FTC (emtricitabine)
+HIV-1 RT	M	184	I	ATG	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	QYL-609
+HIV-1 RT	M	184	I	ATG	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	QYL-685
+HIV-1 RT	M	184	I	ATG	ATG	HIV-1 Specific RT Inhibitor (NNRTI)	QYL-685
+HIV-1 RT	M	184	T	ATG	ACG	Nucleoside RT Inhibitor (NRTI)	3TC (lamivudine)
+HIV-1 RT	M	184	V	ATG	GTG	Nucleoside RT Inhibitor (NRTI)	1592U89 (abacavir)
+HIV-1 RT	M	184	V	ATG	GTG	Nucleoside RT Inhibitor (NRTI)	3TC (lamivudine)
+HIV-1 RT	M	184	V	ATG	GTG	Nucleoside RT Inhibitor (NRTI)	BCH-10652 (+/- dOTC)
+HIV-1 RT	M	184	V	ATG	GTG	Nucleoside RT Inhibitor (NRTI)	ddC (zalcitabine)
+HIV-1 RT	M	184	V	ATG	GTG	Nucleoside RT Inhibitor (NRTI)	ddI (didanosine)
+HIV-1 RT	M	184	V	ATG	GTG	Nucleoside RT Inhibitor (NRTI)	(-)dOTC
+HIV-1 RT	M	184	V	ATG	GTG	Nucleoside RT Inhibitor (NRTI)	(+)dOTC
+HIV-1 RT	M	184	V	ATG	GTG	Nucleoside RT Inhibitor (NRTI)	(-)dOTFC
+HIV-1 RT	M	184	V	ATG	GTG	Nucleoside RT Inhibitor (NRTI)	(+)dOTFC
+HIV-1 RT	M	184	V	ATG	GTG	Nucleoside RT Inhibitor (NRTI)	(-)-FTC (emtricitabine)
+HIV-1 RT	M	184	V	ATG	GTG	Nucleoside RT Inhibitor (NRTI)	L-FddC
+HIV-1 RT	Y	188	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	ADAMII
+HIV-1 RT	Y	188	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	Y	188	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	E-EPSeU
+HIV-1 RT	Y	188	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	E-EPU
+HIV-1 RT	Y	188	C	TAT	TGT	HIV-1 Specific RT Inhibitor (NNRTI)	HEPT
+HIV-1 RT	Y	188	H	TAT	CAT	HIV-1 Specific RT Inhibitor (NNRTI)	ADAMII
+HIV-1 RT	Y	188	H	TAT	CAT	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	Y	188	H	TAT	CAT	HIV-1 Specific RT Inhibitor (NNRTI)	TIBO R82913
+HIV-1 RT	Y	188	H/L	TAT	CAT/CTT	HIV-1 Specific RT Inhibitor (NNRTI)	alpha-APA (loviride)
+HIV-1 RT	Y	188	L	TAT	TTA	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	Y	188	L	TAT	?	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	Y	188	L	TAT	TTA	HIV-1 Specific RT Inhibitor (NNRTI)	TIBO R82913
+HIV-1 RT	V	189	I	GTA	ATA	HIV-1 Specific RT Inhibitor (NNRTI)	HBY 097
+HIV-1 RT	G	190	A	GGA	GCA	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	G	190	A	GGA	GCA	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	G	190	C	GGA	?	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	G	190	C	GGA	?	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	G	190	E	GGA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	AAP-BHAP (U-104489)
+HIV-1 RT	G	190	E	GGA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	G	190	E	GGA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	HBY 097
+HIV-1 RT	G	190	E	GGA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	G	190	E	GGA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	S-2720 (quinoxaline)
+HIV-1 RT	G	190	E	GGA	GAA	HIV-1 Specific RT Inhibitor (NNRTI)	UC-38
+HIV-1 RT	G	190	Q	GGA	CAA	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	G	190	Q	GGA	CAA	HIV-1 Specific RT Inhibitor (NNRTI)	HBY 097
+HIV-1 RT	G	190	Q	GGA	CAA	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	G	190	S	GGA	TCA	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	G	190	S	GGA	TCA	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	G	190	T	GGA	ACA	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	G	190	T	GGA 	ACA	HIV-1 Specific RT Inhibitor (NNRTI)	HBY 097
+HIV-1 RT	G	190	T	GGA	ACA	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	G	190	V	GGA	GTA	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	G	190	V	GGA	GTA	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	H	208	Y	CAT	TAT	Pyrophosphate Analogue RT Inhibitor	PFA (foscarnet)
+HIV-1 RT	L	210	W	TTG	TGG	Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	L	214	F	CTT	TTT	Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	L	214	F	CTT	TTT	Nucleoside RT Inhibitor (NRTI)	ph-AZT
+HIV-1 RT	T	215	F 	ACC	TTC	Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	T	215	Y	ACC	TAC	Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	K	219	E	AAA	GAA	Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	K	219	Q	AAA	CAA	Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	P	225	H	CCT	CAT	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	P	225	H	CCT	CAT	HIV-1 Specific RT Inhibitor (NNRTI)	HBY 097
+HIV-1 RT	P	225	H	CCT	CAT	HIV-1 Specific RT Inhibitor (NNRTI)	I-EBU (emivirine)
+HIV-1 RT	P	225	H	CCT	CAT	HIV-1 Specific RT Inhibitor (NNRTI)	S-2720 (quinoxaline)
+HIV-1 RT	P	225	H	CCT	CAT	HIV-1 Specific RT Inhibitor (NNRTI)	UC-781
+HIV-1 RT	F	227	C	TTC	TGC	HIV-1 Specific RT Inhibitor (NNRTI)	TMC125
+HIV-1 RT	F	227	L	TTA	CTC	HIV-1 Specific RT Inhibitor (NNRTI)	S-1153
+HIV-1 RT	L	234	I	CTC	ATC	HIV-1 Specific RT Inhibitor (NNRTI)	S-1153
+HIV-1 RT	P	236	L	CCT	CTT	HIV-1 Specific RT Inhibitor (NNRTI)	BHAP U-87201E (atevirdine)
+HIV-1 RT	P	236	L	CCT	CTT	HIV-1 Specific RT Inhibitor (NNRTI)	BHAP U-90152 (delavirdine)
+HIV-1 RT	P	236	L	CCT	CTT	HIV-1 Specific RT Inhibitor (NNRTI)	HEPT
+HIV-1 RT	L	283	I	CTT	ACT	HIV-1 Specific RT Inhibitor (NNRTI)	BHAP U-90152 (delavirdine)
+HIV-1 RT	L	283	I	CTT	ACT	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	L	283	I	CTT	ACT	HIV-1 Specific RT Inhibitor (NNRTI)	DMP-266 (efavirenz)
+HIV-1 RT	Y	318	F	TAT	TTT	HIV-1 Specific RT Inhibitor (NNRTI)	BHAP U-90152 (delavirdine)
+HIV-1 RT	Y	318	F	TAT	TTT	HIV-1 Specific RT Inhibitor (NNRTI)	BI-RG-587 (nevirapine)
+HIV-1 RT	E	312	Q			Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	G	335	C			Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	G	335	D			Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	N	348	I			Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	A	360	I			Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	A	360	V			Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	V	365	I			Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	A	376	S			Nucleoside RT Inhibitor (NRTI)	AZT (zidovudine)
+HIV-1 RT	M	184	V			RT inhibitor	VRX-329747
+HIV-1 RT	M	41	L			RT inhibitor	VRX-329747
+HIV-1 RT	A	62	T			RT inhibitor	VRX-329747
+HIV-1 RT	A	62	V			RT inhibitor	VRX-329747
+HIV-1 RT	V	118	I			RT inhibitor	VRX-329747
+HIV-1 RT	S	68	N			RT inhibitor	VRX-329747
+HIV-1 RT	G	112	S			RT inhibitor	VRX-329747
+HIV-1 RT	M	184	V			RT inhibitor	VRX-413638
+HIV-1 RT	M	41	L			RT inhibitor	VRX-413638
+HIV-1 RT	A	62	T			RT inhibitor	VRX-413638
+HIV-1 RT	A	62	V			RT inhibitor	VRX-413638
+HIV-1 RT	V	118	I			RT inhibitor	VRX-413638
+HIV-1 RT	S	68	N			RT inhibitor	VRX-413638
+HIV-1 RT	G	112	S			RT inhibitor	VRX-413638
+HIV-1 RT	V	35	I			Nucleoside RT Inhibitor (NRTI)	
+HIV-1 RT	I	50	V			Nucleoside RT Inhibitor (NRTI)	
+HIV-1 RT	R	83	K			Nucleoside RT Inhibitor (NRTI)	
+HIV-1 RT	T	39	A			Nucleoside RT Inhibitor (NRTI)	
+HIV-1 RT	K	43	E			Nucleoside RT Inhibitor (NRTI)	
+HIV-1 RT	K	43	Q			Nucleoside RT Inhibitor (NRTI)	
+HIV-1 RT	K	122	E			Nucleoside RT Inhibitor (NRTI)	
+HIV-1 RT	E	203	K			Nucleoside RT Inhibitor (NRTI)	
+HIV-1 RT	H	208	Y			Nucleoside RT Inhibitor (NRTI)	
+HIV-1 RT	D	218	E			Nucleoside RT Inhibitor (NRTI)	
+
